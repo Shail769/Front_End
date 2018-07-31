@@ -1,0 +1,16 @@
+.image
+{
+	height: 300px;
+	width: 100px;
+}
+.bgc
+{
+	background-color: #3aba37;
+}
+
+.bgimg
+{
+	background-image: url("images/scenery.jpg");
+	background-size: cover;
+}
+
